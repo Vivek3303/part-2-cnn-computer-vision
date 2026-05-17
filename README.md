@@ -1,6 +1,7 @@
 # part-2-cnn-computer-vision
-
-
+---
+Data Source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+---
 ## Task 1: Problem Identification
 The dataset represents an **Image Classification** problem. We are given whole images of products and tasked with categorizing the entire image into one of four mutually exclusive classes (`normal`, `scratch`, `dent`, `stain`). We are not tasked with plotting bounding boxes around the defects (Object Detection) or outlining their exact pixels (Segmentation).
 
